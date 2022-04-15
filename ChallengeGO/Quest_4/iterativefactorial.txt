@@ -1,0 +1,18 @@
+¤Ecrire une fonction iterative qui retourne le facteur du int déclaré
+
+¤si une Erreur retourne la valeur 0
+
+
+En gros, il faut ecrire une fonction qui te permet d'afficher l'expression factorielle
+d'un nombre ; soit :
+
+ 4! = 4 x 3 x 2 x 1 = 24
+
+Et s'il y a une erreur, alors retourner la valeur 0
+
+
+// une fonction factorielle (symbol : !) sert a multiplier tous les nombres précedents le 
+nombre choisi (inclu aussi) :
+
+1! = 1
+7! = 7 x 6 x 5 x 4 x 3 x 2 x 1 = 5040 

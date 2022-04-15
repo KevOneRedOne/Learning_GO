@@ -1,0 +1,18 @@
+Recursivefactorial :
+
+Ecrire une fonction recursive qui retourne le nombre factoriel du int parametré.
+Si erreur, alors retourne 0.
+la fonction for est interdite dans la fonction.
+
+valeur à supprimer  = en dessous de 0; au dessus de 20
+à la place retourne 0
+
+
+
+
+
+
+
+//Fonction recursive (En informatique et en mathématiques, le terme fonction récursive 
+désigne une classe de fonctions calculables, autrement dit de fonctions dont les valeurs peuvent
+ être calculées à partir de leurs paramètres par un processus mécanique fini)
